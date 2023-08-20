@@ -1,0 +1,75 @@
+html {
+  height: 90%;
+  width: 90%;
+  font-family: 'Courier New', Courier, monospace ;
+  background-color: lightsalmon;
+}
+
+.title{
+   box-shadow: 5px 5px 5px 12px lightsalmon inset;
+   text-shadow: 2px 2px 5px coral;
+   background-color: coral;
+   width: 5 px;
+  text-align: center;
+}
+
+.button{
+  border-radius: 12px;
+  text-shadow: 2px 2px 5px coral;
+}
+
+.overview{
+  color: black;
+  display: inline-flexbox;
+  box-shadow: 5px 5px 5px 12px lightsalmon inset;
+  background-color: coral;
+  padding: 10px; 
+}
+
+
+.images{
+  text-align: left;
+  background-color: lightsalmon;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  box-shadow: 5px 5px 5px 12px = coral inset;
+  background-color: coral;
+}
+
+.dropdown{
+  width: 100%;
+  padding: 70 px;
+  margin-bottom: 20 px;
+  box-shadow: 5px 5px 5px 12px = coral inset;
+  background-color: coral;
+  color:black;
+  font-weight: bold;
+}
+
+.submit{
+  border-radius: 3px;
+  background-color: lightsalmon;
+  box-shadow: 5px 5px 5px 12px = lightsalmon inset;
+  width: 55 px;
+  text-shadow: 2px 2px 5px coral;
+}
+
+.google-map{
+  background-color: lightsalmon;
+  box-shadow: 5px 5px 5px 12px = lightsalmon inset;
+}
+
+.organics{
+  text-shadow: 2px 2px 5px coral;
+   width: 5 px;
+}
+
+
+#error-message{
+  color: red;
+}
+
